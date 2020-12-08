@@ -10,3 +10,4 @@ There are three game modes:
 2 for Player vs Player
 3 for Computer vs Computer.
 Enjoy!
+ 
